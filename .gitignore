@@ -20,6 +20,7 @@ data/
 *.h5
 *.hdf5
 *.gdf
+*.mat
 
 # Python
 __pycache__/
